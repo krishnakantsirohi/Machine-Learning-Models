@@ -1,5 +1,3 @@
-# Krishnakant Singh Sirohi
-# 1001668969
 
 import numpy as np
 import sys
